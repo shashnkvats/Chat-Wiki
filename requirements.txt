@@ -1,0 +1,8 @@
+streamlit
+wikipedia
+pandas
+langchain
+openai
+pandas
+numpy
+streamlit_chat

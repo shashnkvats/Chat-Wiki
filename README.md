@@ -11,7 +11,7 @@ To run this app, you need Python 3.6 or later.
 * Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/chat-wiki.git
+git clone https://github.com/your-username/Chat-Wiki.git
 ```
 
 * Install packages

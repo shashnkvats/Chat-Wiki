@@ -67,7 +67,7 @@ if len(openai_key):
             if msg['user'] == 'user':
                 message(f"You ({msg['time']}): {msg['text']}", is_user=True, key=int(time.time_ns()))
             else:
-                message(f"IA-Bot ({msg['time']}): {msg['text']}", key=int(time.time_ns()))
+                message(f"Wiki-Bot ({msg['time']}): {msg['text']}", key=int(time.time_ns()))
 
     # Create a function to send messages
     def send_message(user_query, faiss_index, all_messages):
